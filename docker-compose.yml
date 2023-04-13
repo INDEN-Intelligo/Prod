@@ -27,4 +27,3 @@ services:
     image : ghcr.io/inden-intelligo/collector:main
     ports:
       - 5000:5000
-
